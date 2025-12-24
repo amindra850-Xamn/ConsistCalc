@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24321823/README.md)
 # ConsistCalc - Trading Discipline & Growth Tracker
 
 ![ConsistCalc Logo](icon-192x192.png)
