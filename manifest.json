@@ -1,0 +1,68 @@
+{
+  "name": "ConsistCalc",
+  "short_name": "ConsistCalc",
+  "description": "Trading Discipline and Growth Tracker",
+  "lang": "id-ID",
+  "dir": "ltr",
+  "theme_color": "#6366f1",
+  "background_color": "#111827",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./",
+  "start_url": "./consistcalc.html",
+  "categories": ["finance", "productivity", "business"],
+  "icons": [
+    {
+      "src": "icon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Add New Trade",
+      "short_name": "Add Trade",
+      "description": "Quickly add a new trading entry",
+      "url": "./#trading-content",
+      "icons": [{ "src": "icon-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "View Statistics",
+      "short_name": "Statistics",
+      "description": "View trading performance metrics",
+      "url": "./#stats-content",
+      "icons": [{ "src": "icon-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}
